@@ -9,10 +9,10 @@ Usage
 
 ## To use this program, follow these steps:
 
-    Open the HTML file in a web browser.
-    A prompt will appear asking you to enter a number. Enter a valid floating-point number and click "OK".
-    Another prompt will appear asking you to enter another number. Enter a valid floating-point number and click "OK".
-    The program will compare the two numbers and display a message on the web page indicating which number is greater or if they are equal.
+ Open the HTML file in a web browser.
+ A prompt will appear asking you to enter a number. Enter a valid floating-point number and click "OK".
+ Another prompt will appear asking you to enter another number. Enter a valid floating-point number and click "OK".
+ The program will compare the two numbers and display a message on the web page indicating which number is greater or if they are equal.
 
 ## Example
 
