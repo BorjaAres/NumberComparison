@@ -22,3 +22,7 @@ Give me a number: 2.5
 And another one!: 1.8
 
 Output: 2.5 is greater than 1.8
+
+## Deploy
+
+https://numbercomparison.netlify.app/
